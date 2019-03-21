@@ -102,7 +102,10 @@ En los siguientes enlaces pueden acceder a los diferentes prototipos realizados 
 
 [Carpeta de Drive ](https://drive.google.com/drive/folders/1WjuThii2G9BmF3uEceopvbkZPUk8QrVE?usp=sharing)con todo el contenido generado.
 
+## Colaboradores
 
+Evaluz Vázquez Espinosa https://github.com/eve2921/
+Brenda Alejandra Vasquez Orozco  https://github.com/Brendss/
 
 
 
