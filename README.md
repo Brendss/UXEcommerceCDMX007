@@ -48,7 +48,7 @@ Nuestro cliente es Oscar David Vázquez Flores, y tiene un E-commerce de electr�
 
  ![User persona](./Images/User_persona.jpg)
 
- Mystery shopper es una herramienta que nos facilitó reconocer los pains y gains de nuestro usuario. Los recursos se pueden consultar en  [Primer acercamaiento](https://docs.google.com/document/d/1sC_sK5DDAXnphVIRO2gkj4vj9rQw5nznQGGO6v2-NxE/edit) y el [Audio](https://drive.google.com/drive/folders/1rW4k5NQozC54B4QjZOYnImiYYp1gzZkF).
+ Mystery shopper es una herramienta que nos facilitó reconocer los pains y gains de nuestro usuario. Los recursos se pueden consultar en  [Primer acercamiento](https://docs.google.com/document/d/1sC_sK5DDAXnphVIRO2gkj4vj9rQw5nznQGGO6v2-NxE/edit) y el [Audio](https://drive.google.com/drive/folders/1rW4k5NQozC54B4QjZOYnImiYYp1gzZkF).
  Con esto pudimos realizar el Customer Journey Map.
 
  ![CJM](./Images/Journey_map.jpg)
